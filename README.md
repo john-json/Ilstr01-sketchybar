@@ -5,7 +5,7 @@
 ## Ilstr01-sketchybar
 
 ## Full and tiled, dark and light mode for sketchybar 🦀 
-  ![ilstr01-logo](https://github.com/john-json/Ilstr01-sketchybar/blob/main/Images/Showcase.png?raw=true)
+  ![ilstr01-logo]([https://github.com/john-json/Ilstr01-sketchybar/blob/main/Images/Showcase.png](https://github.com/john-json/Ilstr01-sketchybar/blob/main/Images/Showcase.png?raw=true)?raw=true)
 
 ## Light version
   ![ilstr01-logo](https://github.com/john-json/Ilstr01-sketchybar/blob/main/Images/white.png?raw=true)
